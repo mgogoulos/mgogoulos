@@ -6,8 +6,8 @@
 
 ### I am:
 
-* A Tech Lead Software Engineer, working with Python, Django, Web and Cloud technologies.
-* Working with [Six Feet Up](https://sixfeetup.com/) on a number of projects, one of them is [The Linux Foundation](https://linuxfoundation.org/)'s Training and Certification services. 
+* Tech Lead with 15+ years of experience building web and cloud systems with Python, Django, and Kubernetes, across a range of organizations.
+* Working since 2021 with [Six Feet Up](https://sixfeetup.com/) on a number of projects across different industries. 
 * Co-creator and maintainer of [MediaCMS](https://github.com/mediacms-io/mediacms), a modern open source video and media CMS written on Django/React. 
 * Researching ways that misinformation on social media is spread, as part of [Civic Information Office](https://cvcio.org/) project.
 
